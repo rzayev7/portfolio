@@ -1,0 +1,53 @@
+{
+  "about": {
+    "id": 1,
+    "fullname": "Sahib Rzayev",
+    "description": "The secret of success is to do the common thing uncommonly well. -John D. Rockefeller Jr.",
+    "birthDate": "07.11.2003",
+    "address": "Azetbaijan, Baku",
+    "email": "rzaevsahib@gmail.com",
+    "website": "www.sahibrzayev.com",
+    "positions": [
+      "Optimistic",
+      "Respectful",
+      "Enthusiastic",
+      "Creative",
+      "Cheerful"
+    ],
+    "img":"img/Sahib.jpg"
+  },
+  "services": [
+    {
+      "id": 1,
+      "cardName": "React",
+      "cardContent": "React cart content"
+    },
+    {
+      "id": 2,
+      "cardName": "Node js",
+      "cardContent": "Node js cart content"
+    },
+    {
+      "id": 3,
+      "cardName": "Redux",
+      "cardContent": "Redux cart content"
+    },
+    {
+      "id": 4,
+      "cardName": "Next js",
+      "cardContent": "Next js cart content"
+    },
+    {
+      "id": 5,
+      "cardName": "Mongo db",
+      "cardContent": " Mongodb cart content"
+    },
+    {
+      "id": 6,
+      "cardName": "Express js",
+      "cardContent": "Express js cart content"
+    }
+  ],
+
+  "requests": []
+}
